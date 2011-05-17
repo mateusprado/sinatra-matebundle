@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>coffee ${2::${1:template}}$0</string>
+	<key>name</key>
+	<string>coffee</string>
+	<key>scope</key>
+	<string>source.ruby.sinatra</string>
+	<key>tabTrigger</key>
+	<string>cof</string>
+	<key>uuid</key>
+	<string>CF2C9067-DD3A-4E4E-BA33-D3242A43A514</string>
+</dict>
+</plist>
